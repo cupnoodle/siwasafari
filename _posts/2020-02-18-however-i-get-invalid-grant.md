@@ -48,15 +48,15 @@ For instance, facebook allows localhost for developpers.
 &nbsp;  
 
 ## Keywords
--Sign in With Apple
--Token
--id_token
--client_secret
--payload
--.p8 key
--redirect_uri
--scope
--headers
+- Sign in With Apple
+- Token
+- id_token
+- client_secret
+- payload
+- .p8 key
+- redirect_uri
+- scope
+- headers
 
 
 
@@ -87,4 +87,5 @@ Hope this helps someone!!
 
 ## Worldview
 
+- It is important to follow best practice
 &nbsp;
