@@ -18,6 +18,10 @@ Source: [Stack Overflow thread](https://stackoverflow.com/questions/59501102/app
 
 ## Keywords
 
+- Auth
+- Ruby on Rails
+- Backend
+- controller
 
 &nbsp;  
 
@@ -26,6 +30,8 @@ Source: [Stack Overflow thread](https://stackoverflow.com/questions/59501102/app
 - I also had similar problem. Client_id on server should be ServiceId not AppId
 
 - Additionally, whilst it does not deal with Rails specifically, this post might be useful: [Sign in with Apple (iOS App + Backend verification) API returns error “invalid_client”](https://stackoverflow.com/q/57809927/4200092)
+
+- There's a [Ruby gem](https://github.com/nov/apple_id/) that does this, and its README includes a link to a sample Rails project to illustrate how it works. I know that this doesn't directly answer your question, but perhaps this might help you figure out how to solve the issue.
 
 &nbsp;
 
